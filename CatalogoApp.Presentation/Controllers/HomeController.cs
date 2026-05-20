@@ -1,4 +1,4 @@
-using CatalogoApp.Presentation.Models;
+using CatalogoApp.Domain.Models; // <-- Cambiado de Presentation a Domain
 using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
 
